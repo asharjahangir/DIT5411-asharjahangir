@@ -4,6 +4,10 @@
 
 This project implements an AI-powered Chinese character recognition system using deep learning with TensorFlow and OpenCV. The system is designed to recognize handwritten Chinese characters by training on a dataset of PNG images containing various Chinese characters.
 
+## Prerequisites
+- Install Python, Tensorflow, Numpy, Scikit-learn, OpenCV and MatPlotLib
+- Put all images into a folder and name the folder "sample images" in the same directory as the .py file
+
 ## Project Requirements
 
 ### Data Strategy
